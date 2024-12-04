@@ -1,6 +1,12 @@
 # hw1-ML
-![Screenshot from 2024-12-04 22-21-41.png](Screenshot%20from%202024-12-04%2022-21-41.png)
-
 
 Провел сбор и анализ данных, не получилось выявить все неточности, какие-то строки пришлось чистить руками. Сервис на FastApi получился, прикладываю скрины(на сырых данных работать не будет, так как не получилось очистить датасет).
 При добавлении регуляризации и категориальных признаков качество сильно не возросло. Взял исходную модель.
+
+![Screenshot from 2024-12-04 22-21-41](https://github.com/user-attachments/assets/837ffe53-5026-4843-9f28-7cac044ea25e)
+
+![Screenshot from 2024-12-04 22-40-49](https://github.com/user-attachments/assets/64befd8b-9bba-4cd9-9893-6b7bbfcbb541)
+
+![Screenshot from 2024-12-04 22-44-58](https://github.com/user-attachments/assets/2e954f25-56b9-477a-87e4-6d37f7df4461)
+
+
